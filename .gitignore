@@ -131,4 +131,8 @@ dmypy.json
 .pyre/
 
 # pytype static type analyzer
+<<<<<<< HEAD
 .pytype/
+=======
+.pytype/
+>>>>>>> test
